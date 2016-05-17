@@ -4,6 +4,9 @@
 *.rlib
 *.dll
 
+# Mac OS X
+.DS_Store
+
 # Executables
 *.exe
 
